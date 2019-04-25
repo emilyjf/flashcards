@@ -1,11 +1,12 @@
 {
-  "name": "github.com/lehithomas/udacity-mobile-flashcards",
+  "name": "github.com/emilyjf/flashcards",
   "version": "0.0.0",
-  "description": "LehiThomas/Udacity-Mobile-Flashcards @ Apr 18, 2018",
+  "description": "emilyjf @ Apr 25, 2018",
   "author": null,
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
+    "cryptiles": ">=4.1.2",
     "expo": "^26.0.0",
     "react": "16.3.0-alpha.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-26.0.0.tar.gz",
