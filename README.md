@@ -1,4 +1,4 @@
-This is the Udacity Flashcards project. The react native application allows users to create multiple decks of flashcards and quiz themselves on the cards they create.
+This is the Udacity Flashcards project--the final project in the React course. The react native application allows users to create multiple decks of flashcards and quiz themselves on the cards they create.
 
 This project consists of views/screens to:
 
